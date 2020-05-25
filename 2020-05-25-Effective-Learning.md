@@ -1,8 +1,8 @@
 ## The 3 steps of effective studying
 * What are the 3 steps of effective studying?
- ** Understanding
- ** Remembering
- ** Focusing
+	* Understanding
+	* Remembering
+	* Focusing
 * Memorizing vs Understanding?
 * What is the forgetting curve?
 
@@ -10,7 +10,7 @@
 * Who is Richard Feynman?
 * What is the Feynman Technique?
 * General tips to apply Feynman Technique
- ** Keep the language simple
+	* Keep the language simple
 
 
 
