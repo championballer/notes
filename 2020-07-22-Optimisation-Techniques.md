@@ -75,7 +75,7 @@
             - Condition of feasibility
             - Condition of complementary slackness
             - Condition of non-negativity
-        - Few constraints are active and others are inactive. Condition of slackness along with condition of feasibility can be used to find these conditions.
+        - Few constraints are active and others are inactive. Condition of complementary slackness along with condition of feasibility can be used to find these conditions.
         - <0 conditions (for active multipliers)
             - min → $\lambda$ > 0
             - max → $\lambda$ < 0
